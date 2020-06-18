@@ -6,4 +6,4 @@ metadata:
 spec:
   type: service
   lifecycle: staging
-  owner: nguyentranbao
+  owner: nguyentranbao@chotot.vn
