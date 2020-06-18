@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: bualuaxua
-  description: bua lua xua service support bua lua xua things
+  description: bua lua xua service supports bua lua xua things
 spec:
   type: service
   lifecycle: staging
-  owner: nguyentranbao 
+  owner: nguyentranbao
