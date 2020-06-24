@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: bualuaxua
   description: bua lua xua service supports bua lua xua things
+  labels:
+    squad: sre@chotot.vn
+    tier: backend
+    groups: backend,kubernetes,bualuaxua
 spec:
   type: service
   lifecycle: staging
