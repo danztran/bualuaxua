@@ -5,7 +5,10 @@ metadata:
   description: bua lua xua service supports bua lua xua things
   labels:
     tier: backend
-    groups: backend,kubernetes,bualuaxua
+  groups:
+  - kubernetes
+  - backend
+  - test
 spec:
   type: service
   lifecycle: staging
